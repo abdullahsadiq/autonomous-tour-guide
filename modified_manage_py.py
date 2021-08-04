@@ -1,3 +1,5 @@
+# This is the modified manage.py file. It needs to be replaced with the manage.py file in the mycar directory, and needs to have the same name (manage.py)
+
 #!/usr/bin/env python3
 """
 Scripts to drive a donkey 2 car and train a model for it.
