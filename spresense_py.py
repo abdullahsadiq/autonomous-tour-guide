@@ -1,3 +1,5 @@
+# This is the python file for the custom Spresense part for the DonkeyCar. You need to edit your Spresense's serial port in the Raspberry Pi, and place it in the mycar directory.
+
 import RPi.GPIO as GPIO
 import serial
 import time
