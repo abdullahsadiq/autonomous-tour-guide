@@ -1,3 +1,7 @@
+/*
+Before uploading, read through the "Setting up the Spresense board" part.
+*/
+
 #include <SDHCI.h>
 #include <Audio.h>
 #include <GNSS.h>
